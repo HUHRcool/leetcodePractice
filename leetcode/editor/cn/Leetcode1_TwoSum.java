@@ -50,6 +50,7 @@ class Solution {
     public int[] twoSum(int[] nums, int target) {
 
 
+        return nums;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
