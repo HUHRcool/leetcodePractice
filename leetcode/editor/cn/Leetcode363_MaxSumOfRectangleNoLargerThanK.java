@@ -37,14 +37,16 @@ package editor.cn;
 //
 // 进阶：如果行数远大于列数，该如何设计解决方案？ 
 // Related Topics 队列 二分查找 动态规划 
-// 👍 175 👎 0
+// 👍 314 👎 0
 
 
+// 矩形区域不超过 K 的最大数值和
 public class Leetcode363_MaxSumOfRectangleNoLargerThanK {
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int maxSumSubmatrix(int[][] matrix, int k) {
 
+        return k;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
