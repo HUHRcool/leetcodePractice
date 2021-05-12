@@ -7,6 +7,7 @@ public class leetcode2 {
 
         final int mod = (int)1e9 + 7;
 
+        // 单调栈 + 前缀和 + 哨兵
         public int maxSumMinProduct(int[] nums) {
             int n = nums.length + 2;
             int[] newnums = new int[n];
