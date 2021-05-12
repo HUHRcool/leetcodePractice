@@ -1,8 +1,6 @@
-package leetcode240WeekCompetition;
+package WeekCompitition.leetcode240WeekCompetition;
 
-import java.util.Arrays;
-
-public class leetcode5750 {
+public class leetcode0 {
 
     class Solution {
         public int maximumPopulation(int[][] logs) {

@@ -1,6 +1,6 @@
-package leetcode240WeekCompetition;
+package WeekCompitition.leetcode240WeekCompetition;
 
-public class leetcode5751 {
+public class leetcode1 {
 
     class Solution {
         public int maxDistance(int[] nums1, int[] nums2) {
